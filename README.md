@@ -39,7 +39,7 @@ material which you have created for the wall or gate.
 ## OUTPUT:
 
 ### BASIC COLOUR:
-![baseres](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/780666a3-79c1-4847-93a0-9b2cd551581a)
+![baseres1](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/369b00c7-4e9b-4271-9106-27d5fdb435f7)
 
 ### METALLIC TEXTURE:
 ![metallic](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/4702462b-cc1a-4450-a693-dd5346f4df48)
