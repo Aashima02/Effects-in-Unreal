@@ -11,7 +11,7 @@ To Implement various effects in a material such as emissive, roughness, and meta
 
 1. Right-click in the content browser and choose material.  Rename the material and double-click to open it.
 
-2. Right-click in the working space and search for constants. In constant choose constant vector 4.
+2. Right-click in the working space and search for constants. In constant choose constant vector 
 
 3. After this double click on the constant vector 4 and edit the colour using the colour
 picker.
@@ -36,6 +36,8 @@ the emissive colour & connect the alpha value of texture sample to the opacity.
 11. The save it, go to the third person example map and create a plane or cube apply the
 material which you have created for the wall or gate.
 
+```
+
 ## OUTPUT:
 
 ### BASIC COLOUR:
@@ -49,7 +51,7 @@ material which you have created for the wall or gate.
 
 ### ROUGHNESS:
 ![Roughness](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/e3a71289-7313-46ee-95c4-759cce1579c1)
-
+```
 ## RESULT:
 
 Thus, various effects in material properties is successfully implemented in Unreal Engine.
