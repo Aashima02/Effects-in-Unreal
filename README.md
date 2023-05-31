@@ -36,12 +36,10 @@ the emissive colour & connect the alpha value of texture sample to the opacity.
 11. The save it, go to the third person example map and create a plane or cube apply the
 material which you have created for the wall or gate.
 
-```
-
 ## OUTPUT:
 
 ### BASIC COLOUR:
-![base](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/3293f877-bc19-43e3-b73b-2509399ced1a)
+![baseres](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/780666a3-79c1-4847-93a0-9b2cd551581a)
 
 ### METALLIC TEXTURE:
 ![metallic](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/4702462b-cc1a-4450-a693-dd5346f4df48)
@@ -51,7 +49,7 @@ material which you have created for the wall or gate.
 
 ### ROUGHNESS:
 ![Roughness](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/e3a71289-7313-46ee-95c4-759cce1579c1)
-```
+
 ## RESULT:
 
 Thus, various effects in material properties is successfully implemented in Unreal Engine.
