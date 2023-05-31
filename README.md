@@ -9,35 +9,31 @@ To Implement various effects in a material such as emissive, roughness, and meta
 
 ## PROCEDURE:
 
-1. Right-click in the content browser and choose material.
+1. Right-click in the content browser and choose material.  Rename the material and double-click to open it.
 
-2. Rename the material and double-click to open it.
+2. Right-click in the working space and search for constants. In constant choose constant vector 4.
 
-3. Right-click in the working space and search for constants.
-
-4. In constant choose constant vector 4.
-
-5. After this double click on the constant vector 4 and edit the colour using the colour
+3. After this double click on the constant vector 4 and edit the colour using the colour
 picker.
 
-6. After adjusting the colour click okay and save it.
+4. After adjusting the colour click okay and save it.
 
-7. They join the output of the constant vector 4 to the base colour.
+5. They join the output of the constant vector 4 to the base colour.
 
-8. Create a single constant using step 3 and adjust its value of it using detail panel by
+6. Create a single constant using step 3 and adjust its value of it using detail panel by
 adjusting the value.
 
-9. And you can apply this constant value to metallic, roughness, emissive colour etc..
+7. And you can apply this constant value to metallic, roughness, emissive colour etc..
 
-10. For emissive you need to multiply the constant vector 4 and constant and apply it to
+8. For emissive you need to multiply the constant vector 4 and constant and apply it to
 emissive colour.
 
-11. For creating walls and gate you need to create a material and import a png image.
+9. For creating walls and gate you need to create a material and import a png image.
 
-12. And use the png image as texture sample and connect the (rgb) of texture sample to
+10. And use the png image as texture sample and connect the (rgb) of texture sample to
 the emissive colour & connect the alpha value of texture sample to the opacity.
 
-13. The save it, go to the third person example map and create a plane or cube apply the
+11. The save it, go to the third person example map and create a plane or cube apply the
 material which you have created for the wall or gate.
 
 ## OUTPUT:
