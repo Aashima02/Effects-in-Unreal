@@ -42,13 +42,15 @@ material which you have created for the wall or gate.
 ![baseres1](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/369b00c7-4e9b-4271-9106-27d5fdb435f7)
 
 ### METALLIC TEXTURE:
-![metallic](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/4702462b-cc1a-4450-a693-dd5346f4df48)
+![metallicres](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/12e0abad-dcd0-48d0-8f41-c66615fcc9bd)
+
 
 ### EMISSIVE TEXTURE:
-![emissive](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/17eba78e-fc4e-4b0e-b868-7b4721b96faa)
+![emisres](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/52c0ab1e-69c5-4f76-989b-4fb413968d13)
 
 ### ROUGHNESS:
-![Roughness](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/e3a71289-7313-46ee-95c4-759cce1579c1)
+![roghres](https://github.com/Aashima02/Effects-in-Unreal/assets/93427086/adbf7cb5-b26b-474c-84ca-c9385eb7cf62)
+
 
 ## RESULT:
 
